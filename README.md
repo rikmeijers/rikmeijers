@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rik Meijers</h1>
 <h3 align="center">A passionate software engineer from The Netherlands</h3>
 
-- 🔭 I’m currently working on [Java Prefix Plugin](https://github.com/rikmeijers/Prefix)
+- 🔭 I’m currently working on [Java Prefix](https://github.com/rikmeijers/Prefix)
 
 - 🌱 I’m currently learning **C++ and Unreal Engine 5**
 
