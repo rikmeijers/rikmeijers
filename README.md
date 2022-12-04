@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **rikmeijers02@icloud.com**
+- 📫 How to reach me [**rik@rikmeijers.com**](mailto:rikmeijers02@icloud.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
