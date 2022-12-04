@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Java Prefix](https://github.com/rikmeijers/Prefix)
 
-- 🌱 I’m currently learning **C++ and Unreal Engine 5**
+- 🌱 I’m currently learning **C, C++ and Unreal Engine 5**
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me [**rik@rikmeijers.com**](mailto:rikmeijers02@icloud.com)
+- 📫 How to reach me [**info@rikmeijers.com**](mailto:rikmeijers02@icloud.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
