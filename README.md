@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate and versatile software developer with a knack for solving complex problems and building innovative solutions. I specialize in a variety of programming languages and technologies such as C#, C++, Java, Python, PHP, all types of SQL, and I also have experience working with Unreal Engine, Unity, Excel, and Microsoft Power Bi.
 
-🔭 I'm currently working on some exciting projects that you can check out on my [GitHub page](https://github.com/fronskyofficial).
+🔭 I'm currently working on some exciting projects that you can check out on my [GitHub page]([https://github.com/fronskyofficial](https://github.com/Fronsky-Co)).
 
 ## 🛠️ My Tech Stack
 
