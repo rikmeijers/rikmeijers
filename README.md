@@ -22,5 +22,3 @@ I am always open to discussing new ideas, potential collaborations, or simply en
 
 - 📧 **Email:** [info@rik-meijers.com](mailto:info@rik-meijers.com)
 - 🌐 **LinkedIn:** [Rik Meijers](https://www.linkedin.com/in/rikmeijers/)
-
-Looking forward to connecting!
