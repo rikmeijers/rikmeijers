@@ -30,6 +30,6 @@ Feel free to reach out if you're interested in collaboration, discussions, or ju
 - 📧 **Email:** [info@rik-meijers.com](mailto:info@rik-meijers.com)
 - 🌐 **LinkedIn:** [Rik Meijers](https://www.linkedin.com/in/rikmeijers/)
 - 🐙 **GitHub:** [My GitHub](https://github.com/rikmeijers)
-- 🌐 **Website:** [Fronsky](https://rik-meijers.com)
+- 🌐 **Website:** [My Website](https://rik-meijers.com)
 
 ## 🚀 Let's Build Something Great!
