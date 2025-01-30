@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Rik Meijers
 
-Welcome to my GitHub profile! I am a passionate and versatile software engineer focused on solving complex challenges and building innovative solutions. I work across multiple programming languages and technologies, and I'm always exploring new ways to push the boundaries of software development. You can explore my personal projects and connect with me on my [website](https://fronsky.com).
+Welcome to my GitHub profile! I am a passionate and versatile software engineer focused on solving complex challenges and building innovative solutions. I work across multiple programming languages and technologies, and I'm always exploring new ways to push the boundaries of software development.
 
 ## 🛠️ Technical Expertise
 
@@ -30,6 +30,6 @@ Feel free to reach out if you're interested in collaboration, discussions, or ju
 - 📧 **Email:** [info@rik-meijers.com](mailto:info@rik-meijers.com)
 - 🌐 **LinkedIn:** [Rik Meijers](https://www.linkedin.com/in/rikmeijers/)
 - 🐙 **GitHub:** [My GitHub](https://github.com/rikmeijers)
-- 🌐 **Website:** [Fronsky](https://fronsky.com)
+- 🌐 **Website:** [Fronsky](https://rik-meijers.com)
 
 ## 🚀 Let's Build Something Great!
