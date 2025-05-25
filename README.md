@@ -9,7 +9,7 @@ I have hands-on experience in a variety of programming languages and technologie
 - **Languages:** Java, Python, C#, PHP, JavaScript
 - **Web Development:** HTML, CSS, JavaScript, ASP.NET
 - **Backend Development:** Node.js, MySQL, MongoDB, JSON
-- **Software Development:** OOP (Object-Oriented Programming), SOLID Principles
+- **Software Development:** OOP (Object-Oriented Programming), SOLID Principles, SW DRM
 - **Game Development:** Unity, Unreal Engine
 
 ### Key Technologies:
@@ -17,7 +17,7 @@ I have hands-on experience in a variety of programming languages and technologie
 - **Python:** Strong background in developing versatile software solutions.
 - **C# / ASP.NET:** Deep experience in full-stack web development.
 - **Unity / Unreal Engine:** Passion for building games and interactive experiences.
-- **Databases:** Proficient with MySQL and MongoDB, handling both relational and NoSQL databases.
+- **Databases:** Proficient with SQL and MongoDB, handling both relational and NoSQL databases.
 
 ## 🌍 Personal Projects
 
@@ -27,9 +27,8 @@ I'm always working on interesting projects! Check out some of my personal work, 
 
 Feel free to reach out if you're interested in collaboration, discussions, or just to chat about tech:
 
-- 📧 **Email:** [info@rik-meijers.com](mailto:info@rik-meijers.com)
 - 🌐 **LinkedIn:** [Rik Meijers](https://www.linkedin.com/in/rikmeijers/)
 - 🐙 **GitHub:** [My GitHub](https://github.com/rikmeijers)
-- 🌐 **Website:** [My Website](https://rik-meijers.com)
+- 🌐 **Fronsky:** [Website](https://fronsky.com/)
 
 ## 🚀 Let's Build Something Great!
