@@ -2,53 +2,46 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/rikmeijers">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="LinkedIn"
-         width="24"
-         height="24" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="24" height="24" />
   </a>
 </p>
 
-<h3 align="center">Software Engineer · Backend · Systems · Automation</h3>
+<h3 align="center">Software Architect · Game Developer · Founder of <a href="https://github.com/fronsky-development">@Fronsky</a></h3>
 
 <p align="center">
-I build reliable and maintainable software systems with a strong focus on clean architecture and long-term quality.
+<b>Engineering the bridge between web, games, and automation.</b><br/>
+Focusing on clean architecture, scalable systems, and high-performance digital solutions.
 </p>
 
 ---
 
-<h3>🧠 About</h3>
-<ul>
-  <li>Software engineer with experience in backend development and system design</li>
-  <li>Strong focus on clean architecture, SOLID principles, and maintainability</li>
-  <li>Background in Java, Python, C#, and data-driven applications</li>
-  <li>Enjoys building personal projects and frameworks outside of commercial work</li>
-</ul>
+### 🧠 About Me
+* **Founder & Lead Developer** at **Fronsky**, where I build modern software and game integrations.
+* **Specialized in Backend Systems** with a strong focus on clean architecture and SOLID principles.
+* **Multi-stack Engineer** experienced in Java, TypeScript, Python, and C#.
+* **Passion for Game Tech**, ranging from standalone game development to enterprise-level Minecraft frameworks.
 
 ---
 
-<h3>🛠️ Core Skills</h3>
-<p>
-<b>Languages:</b> Python, Java, C#, SQL<br/>
-<b>Frameworks & Tools:</b> Spring Boot, Docker, Git, CI/CD<br/>
-<b>Databases:</b> MySQL, PostgreSQL, MongoDB<br/>
-<b>Practices:</b> Software Architecture, OOP, SOLID, Agile, Automation
+### 🛠️ Core Skills
+* **Languages:** Java, TypeScript/Node.js, C#, Python, SQL
+* **Game Dev:** Minecraft Plugin API (Spigot/Paper/Velocity), Unity/C#
+* **Web & Systems:** React, Next.js, Docker, CI/CD, Spring Boot
+* **Databases:** PostgreSQL, MongoDB, Redis
+
+---
+
+### 🚀 Active Work
+* **[Fronsky](https://fronsky.nl)** – My official software studio for high-end plugins and web apps.
+
+---
+
+### 📊 Stats & Activity
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rikmeijers&theme=tokyonight&border=A1C4FD&stroke=A1C4FD&ring=A1C4FD&fire=A1C4FD" alt="Rik's GitHub Streak" height="150" />
 </p>
 
 ---
 
-<h3>📌 Personal Projects</h3>
-<ul>
-  <li><b>Fronsky</b> – Personal non-commercial platform for publishing plugins, frameworks, and applications</li>
-  <li>Java framework for Spigot/Minecraft plugin development</li>
-  <li>PHP framework for lightweight web applications</li>
-  <li>Exploring game development using C# and Unity</li>
-</ul>
-
----
-
-<h3>🔗 Links</h3>
-<p>
-<a href="https://linkedin.com/in/rikmeijers">LinkedIn</a> ·
-<a href="https://fronsky.nl">Website</a>
-</p>
+### 🔗 Connect
+[LinkedIn](https://linkedin.com/in/rikmeijers) · [Fronsky.nl](https://fronsky.nl) · [Contact](mailto:info@fronsky.nl)
