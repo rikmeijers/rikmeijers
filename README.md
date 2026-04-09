@@ -32,7 +32,7 @@ Focusing on clean architecture, scalable systems, and high-performance digital s
 ---
 
 ### 🚀 Active Work
-* **[Fronsky](https://fronsky.nl)** – My official software studio for high-end plugins and web apps.
+* **[Fronsky](https://fronsky.nl)** – My official software studio for games, plugins, web apps, and advanced automation.
 
 ---
 
